@@ -1,8 +1,8 @@
 ---
 website: "Portal das Bolsas de Estudo de Machico"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://machicoambiente.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://machicoambiente.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+uri: "https://bolsadeestudo.cm-machico.pt/"   # Entre as aspas escreve o domínio do website
+a11y_statement: "https://bolsadeestudo.cm-machico.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Município de Machico"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
